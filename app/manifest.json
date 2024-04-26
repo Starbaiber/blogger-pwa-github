@@ -1,16 +1,16 @@
 {
   "version": "1.0",
-  "name": "My Blog",
-  "short_name": "My Blog",
-  "description": "My blog description goes here...",
+  "name": "Holystoriesg",
+  "short_name": "Holy stories",
+  "description": "Welcome to HolyStories, your digital gateway to the timeless narratives of the Holy Bible. We are passionate storytellers committed to bringing the rich tapestry of biblical stories and verses to life",
   "dir": "auto",
   "lang": "en-US",
   "orientation": "any",
-  "start_url": "/?utm_source=homescreen",
+  "start_url": "/",
   "scope": "/",
   "display": "standalone",
   "prefer_related_applications": false,
-  "background_color": "#fff",
+  "background_color": "#74992e;",
   "theme_color": "#fff",
   "icons": [
     {
@@ -90,10 +90,10 @@
   ],
   "shortcuts": [
     {
-      "name": "My Shortcut 1",
-      "short_name": "My Shortcut 1",
-      "description": "My Shortcut 1 description goes here...",
-      "url": "/search/label/my-shortcut-1?utm_source=homescreen",
+      "name": "Bible stories",
+      "short_name": "Bible stories",
+      "description": "Enjoy 116 stories from the Bible.",
+      "url": "/search/label/Bible%20stories",
       "icons": [
         {
           "src": "icons/android-icon-192x192.png",
@@ -103,9 +103,9 @@
     },
     {
       "name": "My Shortcut 2",
-      "short_name": "My Shortcut 2",
-      "description": "My Shortcut 2 description goes here...",
-      "url": "/search/label/my-shortcut-2?utm_source=homescreen",
+      "short_name": "Inspiration Bible Quotes",
+      "description": "uplift and inspire your faith every day",
+      "url": "/search/label/inspiration%Bible%Quotes",
       "icons": [
         {
           "src": "icons/android-icon-192x192.png",
