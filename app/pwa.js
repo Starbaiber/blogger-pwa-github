@@ -161,10 +161,10 @@ if (typeof Lazy !== "function") {
   }
 })({
   consoleLogs: true,
-  oneSignalEnabled: false,
+  oneSignalEnabled: true,
   oneSignalSDK: "https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js",
   oneSignalConfig: {
-    appId: "<appId>",
+    appId: "1555fe28-8607-4a0a-8198-61f8b616ee7c",
     allowLocalhostAsSecureOrigin: true
   }
 });
