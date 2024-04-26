@@ -6,7 +6,7 @@
   "dir": "auto",
   "lang": "en-US",
   "orientation": "any",
-  "start_url": "/",
+  "start_url": "https://www.holystories.org",
   "scope": "/",
   "display": "standalone",
   "prefer_related_applications": false,
